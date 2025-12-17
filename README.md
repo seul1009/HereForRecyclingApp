@@ -15,7 +15,8 @@
 <img width="938" alt="스크린샷 2025-05-31 오후 5 03 29" src="https://github.com/user-attachments/assets/c5a2b1cb-782f-4ed7-a5da-73e534710790" />
 
 ## 시스템 아키텍처
-<img width="760" alt="스크린샷 2025-06-11 오후 2 44 10" src="https://github.com/user-attachments/assets/3ad2e7b7-4ed7-4094-88c5-3e9928cef867" />
+<img width="1159" height="675" alt="image" src="https://github.com/user-attachments/assets/063cb582-ef38-4dd2-8051-b54c6cafe75b" />
+
 
 ## YOLO 모델
 - 데이터셋 : Kaggle, Roboflow Universe
