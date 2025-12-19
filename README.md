@@ -24,6 +24,7 @@
 
 <img width="816" alt="스크린샷 2025-06-11 오후 2 44 32" src="https://github.com/user-attachments/assets/97a99749-f253-49ae-ae57-ac04ac964791" />
 
-![image](https://github.com/user-attachments/assets/21377a62-a1b8-41f4-bbcb-ee11804884b3)
+<img width="3000" height="2250" alt="image" src="https://github.com/user-attachments/assets/78bc9a79-ad71-453c-9dfc-78d9a63d6431" />
+
 
 ![image](https://github.com/user-attachments/assets/fe13b4c5-cb82-4058-b0c8-606c6df48d92)
